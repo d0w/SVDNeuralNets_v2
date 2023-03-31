@@ -1,4 +1,5 @@
-# SVDNeuralNets_v2
+# SV-Learn Extension (Tentative Title)
+Essentially an extension of previous research done on SVLearn to now start generalizing the algorithm to the full SVD as well as different sized matrices.
 
 ## Note
 *(Reformat later)*
